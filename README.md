@@ -1,0 +1,1 @@
+this has to be used with a cronjob that calls the bot's script, since the bot simply posts the links, then destroys itself. the cronjob just has to call the shell script, since that script calls the other two files
