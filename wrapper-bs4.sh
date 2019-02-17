@@ -7,3 +7,4 @@ mkdir $datestring
 cd $datestring
 python3 /home/liam/.bin/bs4-qwertee.py
 echo "done: $datestring"
+node /home/liam/shirtbot/schedule.js
